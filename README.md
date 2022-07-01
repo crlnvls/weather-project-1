@@ -1,4 +1,4 @@
 # Weather Project 1
 
-SheCodes Basics first project
+SheCodes Basics first week project
 
